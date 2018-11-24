@@ -1,6 +1,6 @@
-# Cover Text
+# Cover Text,Array
 
-PHP text,number,array vs vs
+PHP Text and Array modifier.
 
 ---
 
